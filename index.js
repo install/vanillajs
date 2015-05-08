@@ -5,4 +5,4 @@ module.exports = {
   String: String,
   Number: Number,
   Date: Date
-}
+};
